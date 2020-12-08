@@ -1,0 +1,23 @@
+.corpo {
+	margin: left;
+}
+
+.display {
+	display: table-cell;
+	margin: right;
+}
+
+.displaytxt {
+	display: table-cell;
+	margin: right;
+	width: 700px;
+}
+
+p {
+	size:7px;
+}
+
+.gostos {
+	display: table-cell;
+	margin: right;
+}
